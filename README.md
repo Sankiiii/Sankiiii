@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @Sankiiii
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+<html>
+<head><head>
 
-<!---
-Sankiiii/Sankiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <body>
+    <h3 style="color:yellow;font:monospace;">HELLO DEVELOPERS</h3>  
+  </body>
+  
+  </html>
