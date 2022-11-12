@@ -12,6 +12,6 @@
 <h6>FAMILIAR WITH ***</h6>
 <div style="justify-content:space-evenly;">
 <img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" id="img" align="left" width="30px" style="max-width:100%;">
-  <img src="https://www.softorks.com/Images/css.jpg" id="img"  align="left" style="width:40px; heigth:60px;">
+  <img src="https://www.softorks.com/Images/css.jpg" id="img"  align="left" style="width:40px; heigth:60px; float:top;">
   </div>
 
