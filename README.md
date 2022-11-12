@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=30FFF6FFF&width=435&lines=Hello+Developers......" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=30FFF6FFF&width=435&lines=HELLO+DEVELOPERS......" alt="Typing SVG" /></a>
 <h2>ABOUT ME !!!</h2>
 
 <h4>Currently Iam Doing My Bachelor of Technology Degree With the Course "INFORMATION TECHNOLOGY"</h4>
