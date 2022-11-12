@@ -1,8 +1,1 @@
-<html>
-<head><head>
-
-  <body>
-    <h3 style="color:yellow;font:monospace;">HELLO DEVELOPERS</h3>  
-  </body>
-  
-  </html>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=6000&pause=1000&color=F7AA49&width=435&lines=Hello+Developers......" alt="Typing SVG" /></a>
